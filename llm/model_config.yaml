@@ -1,0 +1,23 @@
+# sus-chat-34b:
+#   model_path: SUSTech/SUS-Chat-34B
+#   cache_dir : /mnt/bn/llava-qa/gsx/genreport/modelpatch
+
+# gpt-4-0125-preview:
+#   ak_dir: ./OPENAI_API_KEY
+
+gpt-4o-2024-05-13:
+  ak_dir: ./OPENAI_4O_API_KEY
+
+# qwen-14b-chat:
+#   model_path: Qwen/Qwen-14B-Chat
+#   cache_dir : /mnt/bn/llava-qa/gsx/genreport/modelpatch
+
+# codegemma-7b-it:
+#   model_path: google/codegemma-7b-it
+#   cache_dir : /mnt/bn/llava-qa/gsx/genreport/modelpatch
+
+# hermes-2-pro-mistral-7b:
+#   model_path: /mnt/bn/llava-qa/gsx/genreport/modelpatch/Hermes-2-Pro-Mistral-7B
+#   cache_dir: 
+doubao-32-pro:
+  config_file: ./DOUBAO_32_PRO_CONFIG_FILE.yaml
